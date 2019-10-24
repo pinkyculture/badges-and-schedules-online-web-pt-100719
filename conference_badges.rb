@@ -18,6 +18,6 @@ names.collect do |name|
   rooms = []
   index = 1 
   names.each_with_index do |name , index|
-"Hello, #{names}! You'll be assigned to room #{room[index]}!"
+rooms << "Hello, #{names}! You'll be assigned to room #{room[index]}!"
 index += 1 
 end

@@ -8,3 +8,5 @@ def batch_badge_creator (names)
 end
 array
 end
+
+batch_badge_creator

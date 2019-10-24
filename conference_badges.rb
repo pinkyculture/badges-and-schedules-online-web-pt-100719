@@ -18,4 +18,4 @@ rooms
 end
 
 def printer(names)
-batch_badge_creator(names).each {|room.assignment|}
+batch_badge_creator(names).each {|room.assignment|

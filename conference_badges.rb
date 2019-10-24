@@ -17,5 +17,5 @@ names.collect do |name|
  def assign_rooms(names)
   rooms = []
   index = 1 
-  names.each_with_index do |name|
+  names.each_with_index do |name , index|
 "Hello, #{names}! You'll be assigned to room #{room[index]}!"

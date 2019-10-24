@@ -10,4 +10,5 @@ array
 end
 
 batch_badge_creator (names)
-names.collect do 
+names.collect do |name|
+  

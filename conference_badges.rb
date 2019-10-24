@@ -16,3 +16,4 @@ names.collect do |name|
  
  def assign_rooms
    rooms = []
+"Hello, #{}! You'll be assigned to room #{}!"

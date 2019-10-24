@@ -21,3 +21,5 @@ names.collect do |name|
 rooms << "Hello, #{names}! You'll be assigned to room #{room[index]}!"
 index += 1 
 end
+rooms
+end

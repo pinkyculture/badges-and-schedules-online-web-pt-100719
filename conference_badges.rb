@@ -20,5 +20,3 @@ end
 rooms
 end
 end
-def printer(names)
-  

@@ -22,6 +22,6 @@ rooms << "Hello, #{names}! You'll be assigned to room #{index += 1}!"
 end
 rooms
 end
-
+end
 def printer(names)
   

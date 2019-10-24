@@ -9,4 +9,5 @@ end
 array
 end
 
-batch_badge_creator
+batch_badge_creator (names)
+

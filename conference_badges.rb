@@ -8,8 +8,7 @@ def batch_badge_creator (names)
 end
 end
 
-array
-end
+
 
 batch_badge_creator (names)
 names.collect do |name|

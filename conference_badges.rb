@@ -15,4 +15,4 @@ names.collect do |name|
  end
  
  def assign_rooms
-   
+   rooms = []

@@ -5,5 +5,6 @@ def batch_badge_creator (name)
   name.each do |names|
   array = []
   array << "Hello, my name is #{name}."
-
+end
+array
 end

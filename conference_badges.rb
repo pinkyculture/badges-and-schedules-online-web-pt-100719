@@ -11,4 +11,4 @@ end
 
 batch_badge_creator (names)
 names.collect do |name|
-  
+  ""

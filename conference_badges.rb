@@ -15,5 +15,6 @@ names.collect do |name|
  end
  
  def assign_rooms(names)
+  index = 1 
    rooms = []
 "Hello, #{names}! You'll be assigned to room #{rooms}!"

@@ -20,3 +20,4 @@ names.collect do |name|
   names.each_with_index do |name , index|
 "Hello, #{names}! You'll be assigned to room #{room[index]}!"
 index += 1 
+end

@@ -12,7 +12,7 @@ names.collect do |name|
   rooms = []
   index = 1 
   names.each_with_index do |name , index|
-rooms << "Hello, #{names}! You'll be assigned to room #{index += 1}!"
+rooms << "Hello, #{name}! You'll be assigned to room #{index += 1}!"
 end
 rooms
 end
